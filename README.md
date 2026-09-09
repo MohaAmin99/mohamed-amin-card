@@ -1,7 +1,3 @@
-# OHI – Mohamed Amin Online Business Card
+# OHI Mohamed Amin Online Card
 
-GitHub Pages files:
-- index.html
-- qr.png
-
-Upload both files to a GitHub repository and enable Pages from the `main` branch, root folder.
+Upload index.html and qr.png to the existing GitHub repository.
