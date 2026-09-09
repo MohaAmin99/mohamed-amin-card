@@ -1,3 +1,3 @@
 # OHI Mohamed Amin Online Card
 
-Upload index.html and qr.png to the existing GitHub repository.
+Same design as the previous version. Website and QR code now point to the OHI institute website.
